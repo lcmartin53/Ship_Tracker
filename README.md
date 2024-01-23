@@ -1,4 +1,3 @@
-# Ship_Tracker
 ## Olá eu sou o Luiz Martins, apaixonado pela linguagem python
 - 🔭 Hoje trabalho com back-end e um pouco de front-end
 - 🌱 Estou estudando Python
